@@ -1,12 +1,12 @@
 # PROMPTS: Master Search Queries for HIJ/ADA Evidence Collection
 
-This document provides the definitive **Master Search Prompts** used to initiate the Automated Document Analysis (ADA) and subsequent Human Interactive Judgment (HIJ) evidence gathering. These prompts guided the collection of primary sources (System Cards, compliance filings, policy updates) necessary for scoring the 13 L4 indicators in the final report, ensuring the replication of the initial evidence collection phase,.
+This document provides the definitive Master Search Prompts used to structure the initial search queries for the 13 L4 indicators. These prompts guided the collection of primary sources (System Cards, compliance filings, policy updates) necessary for scoring the comparative audit, ensuring the replication of the evidence collection phase.
 
 ---
 
-## 1. Search Prompts for Organizational Governance (L2\_OrgGov)
+## 1. Search Prompts for Organizational Governance (L2_OrgGov)
 
-The following prompt was used to structure the search for official documentation and evidence related to the six indicators assessed under the Organizational Governance subdimension.
+The following prompt was used to initiate the search for official documentation and evidence related to the five core indicators assessed under the Organizational Governance subdimension.
 
 **Prompt - Find official documentation and evidence for analysing the following aspects of organizational governance -**
 
@@ -15,12 +15,11 @@ The following prompt was used to structure the search for official documentation
 *   Law-enforcement escalation SLAs
 *   Indigenous data stewardship & consent
 *   Board-level AI risk oversight & annual review/attestation
-*   for chatgpt-5 and claude sonnet 4.5
-
+*   For chatgpt-5 and claude sonnet 4.5
 
 ---
 
-## 2. Search Prompts for Compliance & Claims Integrity (L2\_ClaimsIntegrity)
+## 2. Search Prompts for Compliance & Claims Integrity (L2_ClaimsIntegrity)
 
 The following prompt was used to direct the evidence gathering for the eight indicators assessed under the Compliance & Claims Integrity subdimension.
 
@@ -34,4 +33,3 @@ The following prompt was used to direct the evidence gathering for the eight ind
 *   Competition & monopoly risk program
 *   Equitable access & pricing policy
 *   Cross-border impact due diligence
-*   for chatgpt-5 and claude sonnet 4.5

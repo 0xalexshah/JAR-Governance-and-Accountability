@@ -1,12 +1,12 @@
 # RUBRICS: Measurement Methodology and Scoring Thresholds
 
-This document contains the two canonical rubrics used to score the 13 Level 4 (L4) indicators in the comparative audit of Organizational Governance and Compliance & Claims Integrity. All scoring was conducted via Human Interactive Judgment (HIJ), using these explicit thresholds to ensure reproducible interpretation of evidence.
+This file contains the two canonical rubrics used to score the 13 Level 4 (L4) indicators in the comparative audit of Organizational Governance and Compliance & Claims Integrity. All scoring was conducted via Human Interactive Judgment (HIJ), using these explicit thresholds to ensure reproducible interpretation of evidence.
 
 --------------------------------------------------------------------------------
 
 ## 1. Scoring Metrics for Organizational Governance (HIJ)
 
-This rubric evaluates the maturity and resilience of internal governance structures, assigning higher scores based on the degree to which safety and accountability are hard-coded into the corporate legal structure, rather than relying on executive discretion.
+This rubric evaluates the maturity and resilience of internal governance structures, assigning higher scores based on the degree to which safety and accountability are hard-coded into the corporate legal structure, rather than relying on executive goodwill.
 
 | Score | Classification | Description |
 | :--- | :--- | :--- |
